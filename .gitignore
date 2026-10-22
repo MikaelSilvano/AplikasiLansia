@@ -1,0 +1,5 @@
+# Personal Claude Code settings (impeccable writes its design hooks here)
+.claude/settings.local.json
+
+# Platform-specific impeccable engine; the launcher downloads and verifies it
+.claude/skills/impeccable/scripts/bin/
